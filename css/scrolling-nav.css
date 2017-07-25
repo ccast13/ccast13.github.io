@@ -35,14 +35,14 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: url("../image/city.jpg") no-repeat;
 }
 
 .about-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #eee;
+    background: #eee
 }
 
 .services-section {
